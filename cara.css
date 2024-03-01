@@ -1,0 +1,450 @@
+
+           /* header start */
+.head{
+    margin-left: -120px;
+}           
+
+.cc{
+    background-color: rgb(252, 252, 252);
+    /* width: 1150px; */
+    max-width: 1000000px;
+    position: fixed;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.caraimg{
+    padding-top: 10px;
+    
+}
+.logo{
+    /* margin-left: -120px; */
+}
+ul{
+    width: 1180px;
+    height: 38px;
+    list-style-type: none;
+    /* background-color: rgb(10, 123, 221); */
+    margin-left: 730px;
+    margin-top: -40px;
+    display: flex;
+    padding-top: 10px;
+}
+
+li a{
+    text-decoration: none;
+    color: rgb(12, 12, 12);
+    padding: 30px;
+    font-style: initial;
+    font-weight: bold;
+}
+li a:hover{
+    text-decoration: underline;
+    color: rgb(22, 216, 22);
+    
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+.navcart:hover{
+    color:  rgb(22, 216, 22);
+}
+.home{
+    padding-left: 450px;
+    color: rgb(11, 236, 56);
+}
+.home:hover{
+    color: black;
+    text-decoration: underline;
+}
+.head{
+    /* background-color: blueviolet; */
+}
+
+        /* header end */
+
+
+        /* first page start */
+
+.img1{
+    background-image: url(/statics/WhatsApp\ Image\ 2023-11-02\ at\ 8.27.58\ AM\ \(1\).jpeg);
+    height: 700px;
+    width: 1350px;
+    /* max-width: 100%; */
+} 
+.caption{
+    /* margin-top: 300px; */
+    padding-left: 150px;
+    padding-top: 200px;
+} 
+.line3{
+    margin-top: -10px;
+    color: rgb(110, 107, 103);
+    font-size: 15px;
+}
+.trade{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+}
+.super{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 60px;
+}
+.shop{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(13, 51, 2);
+    padding-left:55px;
+    padding-top: 5px;
+    background-image: url(/statics/shoporg.png);
+    /* width: 400px; */
+    height: 70px;
+    background-size: 250px;
+    background-repeat: no-repeat;
+}
+
+
+
+        /* first page end */
+
+
+        /* card start */
+
+ .flex-container{
+    display: flex;
+    flex-direction: row;
+ }
+ .icon{
+    width: 300px;
+    height: 200px;
+    /* background-color: rgb(14, 14, 13); */
+    margin-left: 30px;
+    /* margin-right: 10px; */
+    margin-top: 50px;
+    border: 1px solid black;
+ }
+ .btn{
+    width: 150px;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: bold;
+ }
+ .img2{
+    margin: auto;
+    padding-left: 10px;
+   
+ }
+
+
+        /* card end */
+
+
+
+        /* featured product start */
+
+
+.featured{
+    margin-top: 100px;
+    text-align: center;
+}
+
+        /* featured product start */
+
+
+
+
+        /* featured shirt start */
+
+.card-img-top{
+    padding: 5px;
+    width:255px;
+    height: 300px;
+    border-radius: 25px;
+}
+.card{
+    width: 260px;
+    height: 420px;
+    border-radius: 20px;
+    margin-left: 75px;
+    z-index: -1;
+}
+.col{
+    margin-top: 100px;
+}
+.checked{
+    color: rgb(235, 170, 8);
+}
+.card-title{
+    color: grey;
+}
+.Cartoon{
+    font-size: 15px;
+    font-weight: bold;
+}
+.amount{
+    color: green;
+}
+.bag{
+    margin-left: 150px;
+    border: 1px solid rgb(178, 233, 178);
+    padding: 5px;
+    border-radius: 70px;
+    background-color: rgb(219, 241, 219);
+}
+
+
+        /* fatured shirt end */
+
+
+
+        /* repair service start */
+
+
+.repair{
+    margin-top: 100px;
+    background-image: url(/statics/repair.jfif);
+    max-width: 4000px;
+    height: 320px;
+    /* background-size: 4000px 320px; */
+    margin-right: -150px;
+}
+.repair1{
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.repair2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+}
+.repairbtn{
+    width: 150px;
+    height: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 600px;
+}
+
+
+        /* repair service end */
+
+
+
+/* new arrivals css is same as the fratured product css  */
+
+
+        /* another deals start */
+.crazydeals{
+    background-image: url(/statics/another1.jfif);
+    width: 750px;
+    height: 400px;
+    background-size: 750px 400px;
+    background-repeat: no-repeat;
+    margin-top: 70px;
+    margin-left: 30px;
+}    
+.summer{
+   background-image: url(/statics/another2.jfif);
+   margin-left: 30px;
+   margin-top: 70px;
+   width: 850px;
+   height: 400px;
+   background-size: 950px 400px;
+   background-repeat: no-repeat;
+   margin-right: -100px; 
+}    
+
+
+.crazy{
+    margin-top: 120px;
+    margin-left: 35px;
+}
+.learnbtn{
+    text-align: center;
+    background-color: rgb(3, 56, 3);
+    font-weight: 600;
+    color: white;
+}
+.spring{
+    margin-top: 120px;
+    margin-left: 35px;
+}
+.collectionbtn{
+    background: none;
+    border: 1px solid white;
+    color: white;
+}
+.season{
+    margin-top: 40px;
+    margin-left: 30px;
+    background-image: url(/statics/another3.jfif);
+    width: 470px;
+    height: 280px;
+    background-size: 470px 280px;
+    background-repeat: no-repeat;
+}
+.footwear{
+    background-image: url(/statics/another4.jfif);
+    width: 490px;
+    height: 280px;
+    background-size: 490px 280px;
+    margin-top: 40px;
+    margin-left: 30px;
+    background-repeat: no-repeat;
+}
+.tshirt{
+    background-image: url(statics/another5.jfif);
+    width: 500px;
+    height: 280px;
+    background-size: 500px 280px;
+    margin-top: 40px;
+    margin-right: -100px;
+    margin-left: 30px;
+    background-repeat: no-repeat;
+}
+.ssale{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+    margin-top: 120px;
+    margin-left: 20px;
+}
+
+
+        /* another deals end */
+
+
+
+
+        /* signup start */
+
+.signup{
+    background-image: url(/statics/signup1.jfif);
+    margin-top: 50px;
+    width: 1500px;
+    height: 200px;
+    background-size: 1500px 200px;
+}
+.newletters{
+    margin-left: 100px;
+    padding-top: 80px;
+}
+.mail{
+    margin-left: 800px;
+    margin-top: -80px;
+}
+
+
+      /* signup end */
+
+
+
+
+      /* footer start */
+         
+.footer{
+    background-color: white;
+    width: 1500px;
+    height: 400px;
+    margin-top: 25px;
+}
+.ic {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  /* Facebook */
+.fa-facebook {
+    background-color: white;
+    color: black;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background-color: white;
+    color: black;
+  }
+
+  /* instagram */
+  .fa-instagram {
+    background-color: white;
+    color: black;
+  }
+  /* youtube */
+  .fa-youtube{
+    background-color: white;
+    color: black;
+  }
+  /* printrest */
+  .fa-pinterest{
+    background-color: white;
+    color: black;
+  }
+.footerlogo{
+    margin-top: 100px;
+    margin-left: 40px;
+}
+.contact{
+    margin-top: 50px;
+    margin-left: 40px;
+    background-color: white;
+    width: 400px;
+    height: 300px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.about{
+    background-color: white;
+    width: 180px;
+    height: 250px;
+    margin-left: 490px;
+    margin-top: -300px;
+}
+.myaccount{
+    background-color: white;
+    width: 180px;
+    height: 250px;
+    margin-left: 750px;
+    margin-top: -250px;
+}
+.app{
+    background-color: white;
+    width: 380px;
+    height: 300px;
+    margin-left: 1000px;
+    margin-top: -250px;
+}
+.footimg1{
+    border: 2px solid green;
+    width: 140px;
+    height: 40px;
+    background-size: 140px 40px;
+    border-radius: 5px;
+}
+.footimg2{
+    border: 2px solid green;
+    width: 140px;
+    height: 40px;
+    background-size: 140px 40px;
+    border-radius: 5px;
+}
+.tech2{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+/* footer :end */

@@ -1,0 +1,29 @@
+.bg{
+    background-color: aqua;
+    background-image: linear-gradient(white,rgb(190, 190, 231));
+}
+    
+.head1{
+    font-family:'Caprasimo', cursive;
+}
+.row1{
+    /* text-align: center; */
+    padding-left: 30%;
+    margin-top: 15%;
+}
+.visit{
+    border-radius: 50px;
+    background-color: blue;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+}
+/* .second{
+    height: 100px;
+} */
+.frontend{
+    font-family: 'Caprasimo', cursive;
+}
+.heady{
+    color: blue;
+}

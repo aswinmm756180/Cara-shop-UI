@@ -1,0 +1,40 @@
+html{
+    scroll-behavior: smooth;
+}
+.bg1{
+    background-color: black;
+    color: white;
+}
+.bg2{
+    background-color: rgb(230, 210, 210);
+    /* box-shadow: 10px 10px; */
+    border: 1px solid ;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+      
+}
+.bg3{
+    margin-left:-300px;
+}
+.bg4{
+    margin-left: -300px;
+}
+.b2{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    transition:2s;
+}
+.b2:hover{
+    height: 300px;
+    width: 300px;
+    transition-delay: 1s;
+}
+.b4{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    transition:10s;
+    
+
+}
+.b4:hover{
+    height: 400px;
+    width: 300px;
+    transition-duration: 7s;
+}
